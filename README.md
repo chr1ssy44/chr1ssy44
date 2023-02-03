@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**chr1ssy44/chr1ssy44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Christina</h1>
 <h3 align="center"><3</h3>
 
