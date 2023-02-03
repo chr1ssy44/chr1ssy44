@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christina</h1>
 <h3 align="center"><3</h3>
 
-- 🌱 I’m currently learning **Full-stack Development**
+- 💌I’m currently learning **Full-stack Development**
 
 - 📫 How to reach me **cbbeckford67@gmail.com**
 
-- ⚡ Fun fact **I enjoy baking.**
+- 🧿Fun fact **I enjoy baking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
